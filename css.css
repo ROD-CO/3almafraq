@@ -77,3 +77,25 @@ body{
 
 
 }
+.fotter{
+	display: grid;
+	justify-content: center;
+	align-content: center;
+	
+	
+}
+.par-fotter{
+	display: block;
+	font-size: 30px;
+	font-weight: bold;
+}
+.butt{
+	display: grid;
+	justify-content: center;
+	grid-auto-flow: column;
+	gap: 10px;
+}
+.social{
+	width: 60px;
+	display: block;
+}
