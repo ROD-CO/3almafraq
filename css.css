@@ -26,7 +26,7 @@ body{
 	position: fixed;
 	top: 0;
 	height: 220px;
-	left: 210px;
+	left: 0px;
 	right: 0px;
 	color: #59391c;
 
@@ -35,7 +35,7 @@ body{
 	
 	background-image: url("side.jpg");
 	position: fixed;
-	top: 0px;
+	top: 220px;
 	width: 210px;
 	height: 100%;
 
