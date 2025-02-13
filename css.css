@@ -15,9 +15,12 @@ body{
 
 }
 .all{
-	margin-right: 30px;
-	font-size: 60px;
+	
+	font-size: 80px;
 
+}
+.content{
+	margin-right: 60px;
 }
 .header{
 	font-size: 120px;
@@ -47,13 +50,21 @@ body{
 }
 .title{
 	margin: 0px;
-	font-size: 50px;
+	font-size: 100px;
+	display: block;
+	
+}
+.title1{
+	margin: 0px;
+	font-size: 100px;
+	margin-top: 150px;
 	display: block;
 	
 }
 .items{
 	margin: 0px;
-	margin-bottom: 90px;
+	margin-bottom: 10px;
+	margin-right: 60px;
 }
 .item{
 	display: inline-block;
@@ -72,7 +83,7 @@ body{
 }
 .model{
 	display: grid;
-	grid-template-columns: 0.3fr;
+	grid-template-columns: 0.5fr;
 	justify-content: end;
 
 
@@ -81,10 +92,13 @@ body{
 	display: grid;
 	justify-content: center;
 	align-content: center;
+	margin-left: 100px;
 	
 	
 }
 .par-fotter{
+	color: #835329 !important;
+	text-decoration: none !important;
 	display: block;
 	font-size: 30px;
 	font-weight: bold;
